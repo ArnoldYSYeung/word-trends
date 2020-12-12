@@ -15,6 +15,8 @@ In this project, we developed a simple API for identifying word trends in text d
 - `text`: based on the total number of articles which contain the word
 - `norm`: based on the relative importance of the word in the article and the number of articles containing the word
 
+The experiment is ran in `./word_trends.ipynb`.
+
 Please see below for further details.
 
 ## Methods
