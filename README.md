@@ -1,10 +1,6 @@
 # word-trends
 Detecting word trends in time-series text
 
-Author: Arnold YS Yeung
-
-Date: 2020-12-12
-
 ## Introduction
 In this project, we developed a simple API for identifying word trends in text data over a specified date range. There are two main classes in this library:
 - `TRArticles`: used for reformatting existing raw .csv data from the TR format to the standardized format
